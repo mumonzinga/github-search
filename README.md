@@ -1,5 +1,5 @@
-# GitHub Searcher
->[GitHub Stars](https://github.com/mumonzinga/github-search/stargazers) >|[GitHub Issues](https://github.com/mumonzinga/github-search/issues)
+#  A GitHub Searcher
+>*[GitHub Stars](https://github.com/mumonzinga/github-search/stargazers) *[GitHub Issues](https://github.com/mumonzinga/github-search/issues)
 
 #### An application that easens your search in GitHub, 02/2019
 
@@ -30,12 +30,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * To access the live website, click on this url https://mumonzinga.github.io/gitHubSearch
 
 ## More Technical Activities/Raw Code
->*[Development Server](https://github.com/mumonzinga/github-search/blob/master/developmentserver.md)
->*[Code Scaffolding](https://github.com/mumonzinga/github-search/blob/master/codescaffolding.md)
->*[Build](https://github.com/mumonzinga/github-search/blob/master/build.md)
->*[Running Unit Tests](https://github.com/mumonzinga/github-search/blob/master/runningunittests.md)
->*[Running end-to-end Tests](https://github.com/mumonzinga/github-search/blob/master/runningendtoendtests.md)
->*[Further Help](https://github.com/mumonzinga/github-search/blob/master/furtherhelp.md)
+*>[Development Server](https://github.com/mumonzinga/github-search/blob/master/developmentserver.md)
+*>[Code Scaffolding](https://github.com/mumonzinga/github-search/blob/master/codescaffolding.md)
+*>[Build](https://github.com/mumonzinga/github-search/blob/master/build.md)
+*>[Running Unit Tests](https://github.com/mumonzinga/github-search/blob/master/runningunittests.md)
+*>[Running end-to-end Tests](https://github.com/mumonzinga/github-search/blob/master/runningendtoendtests.md)
+*>[Further Help](https://github.com/mumonzinga/github-search/blob/master/furtherhelp.md)
 ## Known Bugs
 
 No Bugs
